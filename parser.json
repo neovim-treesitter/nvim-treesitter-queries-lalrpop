@@ -1,7 +1,7 @@
 {
+  "url": "https://github.com/traxys/tree-sitter-lalrpop",
   "semver": false,
-  "lang": "lalrpop",
-  "location": null,
   "parser_version": "27b0f7bb55b4cabd8f01a933d9ee6a49dbfc2192",
-  "url": "https://github.com/traxys/tree-sitter-lalrpop"
+  "location": null,
+  "lang": "lalrpop"
 }
